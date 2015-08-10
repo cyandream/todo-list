@@ -1,7 +1,9 @@
+
 /bower_components/*
 /.sass-cache/*
 *.DS_Store
 /stylesheets/*
+
 
 .sass-cache
 *.css.map
@@ -23,3 +25,4 @@ todo-list.sublime-project
 
 # sftp configuration file
 sftp-config.json
+
